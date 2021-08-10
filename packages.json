@@ -1,0 +1,12 @@
+{
+    "packages": [],
+    "includes": {
+        "include/all$f55a8933546774c938c2bcb7f75f4f5579cbd9df.json": {
+            "sha1": "f55a8933546774c938c2bcb7f75f4f5579cbd9df"
+        }
+    },
+    "metadata-url": "/satis-server/p2/%package%.json",
+    "available-packages": [
+        "ropeladder/core-plugin"
+    ]
+}

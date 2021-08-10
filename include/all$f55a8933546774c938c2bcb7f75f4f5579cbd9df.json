@@ -1,0 +1,40 @@
+{
+    "packages": {
+        "ropeladder/core-plugin": {
+            "dev-main": {
+                "name": "ropeladder/core-plugin",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:ropeladderwp/core-plugin.git",
+                    "reference": "3e81fb5463713ac7e999181ea26c3b93dfd96cec"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ropeladderwp/core-plugin/zipball/3e81fb5463713ac7e999181ea26c3b93dfd96cec",
+                    "reference": "3e81fb5463713ac7e999181ea26c3b93dfd96cec",
+                    "shasum": ""
+                },
+                "require": {
+                    "advanced-custom-fields/advanced-custom-fields-pro": "*",
+                    "mustache/mustache": "^2.5",
+                    "php-di/php-di": "6.0.*"
+                },
+                "time": "2021-08-10T15:55:53+00:00",
+                "default-branch": true,
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Rope\\Core\\": "src"
+                    }
+                },
+                "description": "Rope Ladder's Core Plugin for customizing Wordpress Projects",
+                "support": {
+                    "source": "https://github.com/ropeladderwp/core-plugin/tree/main",
+                    "issues": "https://github.com/ropeladderwp/core-plugin/issues"
+                }
+            }
+        }
+    }
+}
