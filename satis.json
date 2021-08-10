@@ -1,0 +1,11 @@
+{
+  "name": "ropeladderwp/satis-server",
+  "homepage": "https://ropeladderwp.github.io/satis-server/",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:ropeladderwp/core-plugin.git"
+    }
+  ],
+  "require-all": true
+}
