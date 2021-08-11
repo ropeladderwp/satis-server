@@ -8,20 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:ropeladderwp/core-plugin.git",
-                    "reference": "3e81fb5463713ac7e999181ea26c3b93dfd96cec"
+                    "reference": "f16106dfd6d3b3b144df469224dafa02908fc61e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/ropeladderwp/core-plugin/zipball/3e81fb5463713ac7e999181ea26c3b93dfd96cec",
-                    "reference": "3e81fb5463713ac7e999181ea26c3b93dfd96cec",
+                    "url": "https://api.github.com/repos/ropeladderwp/core-plugin/zipball/f16106dfd6d3b3b144df469224dafa02908fc61e",
+                    "reference": "f16106dfd6d3b3b144df469224dafa02908fc61e",
                     "shasum": ""
                 },
                 "require": {
-                    "advanced-custom-fields/advanced-custom-fields-pro": "*",
                     "mustache/mustache": "^2.5",
                     "php-di/php-di": "6.0.*"
                 },
-                "time": "2021-08-10T15:55:53+00:00",
+                "time": "2021-08-11T17:36:25+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "autoload": {
