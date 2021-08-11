@@ -1,5 +1,6 @@
 {
   "name": "ropeladderwp/satis-server",
+  "description": "Rope Ladder's Satis Server",
   "homepage": "https://ropeladderwp.github.io/satis-server/",
   "repositories": [
     {
