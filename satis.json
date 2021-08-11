@@ -6,6 +6,21 @@
     {
       "type": "vcs",
       "url": "git@github.com:ropeladderwp/core-plugin.git"
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "advanced-custom-fields/advanced-custom-fields-pro",
+        "version": "5.9.8",
+        "type": "wordpress-plugin",
+        "dist": {
+          "type": "zip",
+          "url": "https://connect.advancedcustomfields.com/index.php?a=download&p=pro&k={%WP_PLUGIN_ACF_KEY}&t={%VERSION}"
+        },
+        "require": {
+          "ffraenz/private-composer-installer": "^3.0"
+        }
+      }
     }
   ],
   "require-all": true

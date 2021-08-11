@@ -1,12 +1,13 @@
 {
     "packages": [],
     "includes": {
-        "include/all$10ac972b29449aa05f0b394cbc1a46859a68bd1b.json": {
-            "sha1": "10ac972b29449aa05f0b394cbc1a46859a68bd1b"
+        "include/all$0dc3b0d26cfdbec1175a8c5c1f15784a794269e1.json": {
+            "sha1": "0dc3b0d26cfdbec1175a8c5c1f15784a794269e1"
         }
     },
     "metadata-url": "/satis-server/p2/%package%.json",
     "available-packages": [
+        "advanced-custom-fields/advanced-custom-fields-pro",
         "ropeladder/core-plugin"
     ]
 }
